@@ -29,3 +29,13 @@ __Run the built-in examples to test your installation. To do this, plug the comp
 	  
     cd ~/workspace/ncsdk
     make examples
+
+## How to run tensorflow and opencv
+#### get shell script to install package - ![[install.sh]](https://github.com/yehengchen/RPI-NCS/blob/master/install.sh)
+	
+	chmod 777 ./install.sh
+	./install
+	...
+	python3
+	>>> import cv2
+	>>> import tensorflow
