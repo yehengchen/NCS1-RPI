@@ -33,9 +33,9 @@ __Run the built-in examples to test your installation. To do this, plug the comp
 # How to run tensorflow and opencv
 #### get shell script to install package - ![[install.sh]](https://github.com/yehengchen/RPI-NCS/blob/master/install.sh)
 	
-	chmod 777 ./install.sh
-	./install
+	$ chmod 777 ./install.sh
+	$ ./install.sh
 	...
-	python3
+	$ python3
 	>>> import cv2
 	>>> import tensorflow
