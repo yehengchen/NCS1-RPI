@@ -104,3 +104,4 @@ See the README file in each of these directory or just click on the links below 
     [make run] : Run a simple program demonstrating use of the compiled network
     [make clean] : Removes all the files in this project directory that may get created when making or running this project. Should not clean other projects in the repository.
 
+### Contributing to the Neural Compute App Zoo (NC App Zoo) - ![[CONTRIBUTING]](https://github.com/movidius/ncappzoo/blob/master/CONTRIBUTING.md)
