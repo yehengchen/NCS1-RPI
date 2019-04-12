@@ -96,7 +96,7 @@ See the README file in each of these directory or just click on the links below 
 #### Makefile required targets for ncappzoo/caffe and ncappzoo/tensorflow directories:
 
     [make help] : Display make targets and descriptions.
-    make all : creates a graph file for the network and does one of compile, check, or profile on it. Should not bring up GUI, or run lengthy program.
+    [make all] : creates a graph file for the network and does one of compile, check, or profile on it. Should not bring up GUI, or run lengthy program.
     [make deps] : Download/Prepare networks. If not needed create empty target
     [make compile] : Run the NCSDK compiler to create a graph file.
     [make profile] : Run the NCSDK profiler to display a profile of the network
