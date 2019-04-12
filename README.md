@@ -83,7 +83,7 @@ See the README file in each of these directory or just click on the links below 
 * ![tensorflow](https://github.com/movidius/ncappzoo/blob/master/tensorflow/README.md) : Scripts to download TensorFlow™ models and compile graphs for use with the NCS
 * data : Data and scripts to download data for use with models and applications that use the NCS
 
-### Makefile Guidance - ![[Link]](https://github.com/movidius/ncappzoo/blob/master/MAKEFILE_GUIDANCE.md)
+### Makefile Guidance - ![[MAKEFILE_GUIDANCE]](https://github.com/movidius/ncappzoo/blob/master/MAKEFILE_GUIDANCE.md)
 #### Makefile required targets for ncappzoo/apps directory:
 
     [make help] : Display make targets and descriptions.
