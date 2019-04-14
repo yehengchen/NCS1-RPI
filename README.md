@@ -59,7 +59,7 @@ __Run the built-in examples to test your installation. To do this, plug the comp
 	cd ~/workspace/ncsdk
 	make examples
 
-# How to run tensorflow and opencv
+# How to run tensorflow and opencv on RPI 3B
 #### get shell script to install package - [[install.sh]](https://github.com/yehengchen/RPI-NCS/blob/master/install.sh)[[Tensorflow - 1.8.0]](https://github.com/lhelontra/tensorflow-on-arm/releases)
 	
 	$ chmod 777 ./install.sh
