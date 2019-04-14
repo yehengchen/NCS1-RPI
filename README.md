@@ -78,9 +78,9 @@ __Run the built-in examples to test your installation. To do this, plug the comp
 #### NC App Zoo Repository Layout
 See the README file in each of these directory or just click on the links below to explore the contents of the NC App Zoo.
 
-* ![apps](https://github.com/movidius/ncappzoo/blob/master/apps/README.md) : Applications built to use the Intel Movidius NCS. This is a great place to start in the NC App Zoo!
-* ![caffe](https://github.com/movidius/ncappzoo/blob/master/caffe/README.md) : Scripts to download caffe models and compile graphs for use with the NCS
-* ![tensorflow](https://github.com/movidius/ncappzoo/blob/master/tensorflow/README.md) : Scripts to download TensorFlow™ models and compile graphs for use with the NCS
+* [apps](https://github.com/movidius/ncappzoo/blob/master/apps/README.md) : Applications built to use the Intel Movidius NCS. This is a great place to start in the NC App Zoo!
+* [caffe](https://github.com/movidius/ncappzoo/blob/master/caffe/README.md) : Scripts to download caffe models and compile graphs for use with the NCS
+* [tensorflow](https://github.com/movidius/ncappzoo/blob/master/tensorflow/README.md) : Scripts to download TensorFlow™ models and compile graphs for use with the NCS
 * data : Data and scripts to download data for use with models and applications that use the NCS
 
 ### Makefile Guidance - [[MAKEFILE_GUIDANCE]](https://github.com/movidius/ncappzoo/blob/master/MAKEFILE_GUIDANCE.md)
