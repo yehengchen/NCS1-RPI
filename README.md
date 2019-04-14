@@ -1,7 +1,7 @@
 # RPI3-NCS
 
-#### Intel® Neural Compute Stick - ![[Get Started]](https://software.intel.com/en-us/movidius-ncs-get-started)
-#### Intel® Movidius™ Neural Network Community - ![[New Discussion]](https://ncsforum.movidius.com/)
+#### Intel® Neural Compute Stick - [[Get Started]](https://software.intel.com/en-us/movidius-ncs-get-started)
+#### Intel® Movidius™ Neural Network Community - [[New Discussion]](https://ncsforum.movidius.com/)
 
 # Get Started 
 ### Step 1: Gather Your Equipment
@@ -60,7 +60,7 @@ __Run the built-in examples to test your installation. To do this, plug the comp
 	make examples
 
 # How to run tensorflow and opencv
-#### get shell script to install package - ![[install.sh]](https://github.com/yehengchen/RPI-NCS/blob/master/install.sh)![[Tensorflow - 1.8.0]](https://github.com/lhelontra/tensorflow-on-arm/releases)
+#### get shell script to install package - ![[install.sh]](https://github.com/yehengchen/RPI-NCS/blob/master/install.sh)[[Tensorflow - 1.8.0]](https://github.com/lhelontra/tensorflow-on-arm/releases)
 	
 	$ chmod 777 ./install.sh
 	$ ./install.sh
@@ -83,7 +83,7 @@ See the README file in each of these directory or just click on the links below 
 * ![tensorflow](https://github.com/movidius/ncappzoo/blob/master/tensorflow/README.md) : Scripts to download TensorFlow™ models and compile graphs for use with the NCS
 * data : Data and scripts to download data for use with models and applications that use the NCS
 
-### Makefile Guidance - ![[MAKEFILE_GUIDANCE]](https://github.com/movidius/ncappzoo/blob/master/MAKEFILE_GUIDANCE.md)
+### Makefile Guidance - [[MAKEFILE_GUIDANCE]](https://github.com/movidius/ncappzoo/blob/master/MAKEFILE_GUIDANCE.md)
 #### Makefile required targets for ncappzoo/apps directory:
 
     [make help] : Display make targets and descriptions.
@@ -104,4 +104,4 @@ See the README file in each of these directory or just click on the links below 
     [make run] : Run a simple program demonstrating use of the compiled network
     [make clean] : Removes all the files in this project directory that may get created when making or running this project. Should not clean other projects in the repository.
 
-### Contributing to the Neural Compute App Zoo (NC App Zoo) - ![[CONTRIBUTING]](https://github.com/movidius/ncappzoo/blob/master/CONTRIBUTING.md)
+### Contributing to the Neural Compute App Zoo (NC App Zoo) - [[CONTRIBUTING]](https://github.com/movidius/ncappzoo/blob/master/CONTRIBUTING.md)
