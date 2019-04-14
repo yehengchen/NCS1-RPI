@@ -60,7 +60,7 @@ __Run the built-in examples to test your installation. To do this, plug the comp
 	make examples
 
 # How to run tensorflow and opencv
-#### get shell script to install package - ![[install.sh]](https://github.com/yehengchen/RPI-NCS/blob/master/install.sh)[[Tensorflow - 1.8.0]](https://github.com/lhelontra/tensorflow-on-arm/releases)
+#### get shell script to install package - [[install.sh]](https://github.com/yehengchen/RPI-NCS/blob/master/install.sh)[[Tensorflow - 1.8.0]](https://github.com/lhelontra/tensorflow-on-arm/releases)
 	
 	$ chmod 777 ./install.sh
 	$ ./install.sh
@@ -70,7 +70,7 @@ __Run the built-in examples to test your installation. To do this, plug the comp
 	>>> import tensorflow
 	
 # NCAPPZOO Examples
-#### The ncappzoo is a valuable resource for NCS users and includes community developed applications and neural networks for the NCS - ![[ncappzoo]](https://github.com/movidius/ncappzoo)
+#### The ncappzoo is a valuable resource for NCS users and includes community developed applications and neural networks for the NCS - [[ncappzoo]](https://github.com/movidius/ncappzoo)
 
 	git clone https://github.com/movidius/ncappzoo.git
 
