@@ -70,7 +70,7 @@ __Run the built-in examples to test your installation. To do this, plug the comp
 	>>> import tensorflow
 	
 # NCAPPZOO Examples
-#### The ncappzoo is a valuable resource for NCS users and includes community developed applications and neural networks for the NCS - [[ncappzoo]](https://github.com/movidius/ncappzoo)
+### The ncappzoo is a valuable resource for NCS users and includes community developed applications and neural networks for the NCS - [[ncappzoo]](https://github.com/movidius/ncappzoo)
 
 	git clone https://github.com/movidius/ncappzoo.git
 
