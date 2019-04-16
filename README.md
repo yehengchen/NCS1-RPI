@@ -1,4 +1,4 @@
-# RPI3-NCS
+# RPI3-NCSDK
 
 #### Intel® Neural Compute Stick - [[Get Started]](https://software.intel.com/en-us/movidius-ncs-get-started)
 #### Intel® Movidius™ Neural Network Community - [[New Discussion]](https://ncsforum.movidius.com/)
